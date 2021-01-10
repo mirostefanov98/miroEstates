@@ -523,6 +523,15 @@
         0 => '9.1.2',
       ),
     ),
+    'drupal/google_map_field' => 
+    array (
+      'pretty_version' => '1.14.0',
+      'version' => '1.14.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.14',
+    ),
     'drupal/hal' => 
     array (
       'replaced' => 
