@@ -443,6 +443,15 @@ private static $installed = array (
         0 => '9.1.2',
       ),
     ),
+    'drupal/ctools' => 
+    array (
+      'pretty_version' => '3.4.0',
+      'version' => '3.4.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-3.4',
+    ),
     'drupal/datetime' => 
     array (
       'replaced' => 
@@ -586,42 +595,6 @@ private static $installed = array (
       array (
         0 => '9.1.2',
       ),
-    ),
-    'drupal/jquery_ui' => 
-    array (
-      'pretty_version' => '1.4.0',
-      'version' => '1.4.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '8.x-1.4',
-    ),
-    'drupal/jquery_ui_datepicker' => 
-    array (
-      'pretty_version' => '1.0.0',
-      'version' => '1.0.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '8.x-1.0',
-    ),
-    'drupal/jquery_ui_slider' => 
-    array (
-      'pretty_version' => '1.1.0',
-      'version' => '1.1.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '8.x-1.1',
-    ),
-    'drupal/jquery_ui_touch_punch' => 
-    array (
-      'pretty_version' => '1.0.0',
-      'version' => '1.0.0.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '1.0.0',
     ),
     'drupal/jsonapi' => 
     array (
@@ -779,6 +752,15 @@ private static $installed = array (
         0 => '9.1.2',
       ),
     ),
+    'drupal/pathauto' => 
+    array (
+      'pretty_version' => '1.8.0',
+      'version' => '1.8.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.8',
+    ),
     'drupal/quickedit' => 
     array (
       'replaced' => 
@@ -906,6 +888,15 @@ private static $installed = array (
       array (
         0 => '9.1.2',
       ),
+    ),
+    'drupal/token' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
     ),
     'drupal/toolbar' => 
     array (
